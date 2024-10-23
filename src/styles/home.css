@@ -1,0 +1,56 @@
+body {
+    background-image: url("https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/09/ngc_602_nircam_and_miri_image/26325710-4-eng-GB/NGC_602_NIRCam_and_MIRI_image_pillars.jpg");
+}
+
+div.scrollmenu {
+    overflow: auto;
+    white-space: nowrap;
+}
+
+div.scrollmenu a:hover {
+    background-color: #4b4b4b;
+}
+
+h1 {
+    background: #C8C8C8;
+        background: linear-gradient( #C8C8C8 0%, #FFFFFF 20%, #c8c8c8 40%, #FFFFFF 60%, #C8C8C8 80%, #FFFFFF 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    text-shadow: 0 0 10px #FFFFFF;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+footer {
+    background: #C8C8C8;
+        background: linear-gradient( #C8C8C8 0%, #FFFFFF 20%, #c8c8c8 40%, #FFFFFF 60%, #C8C8C8 80%, #FFFFFF 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    text-shadow: 0 0 10px #FFFFFF;
+    color: #FFFFFF;
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+.card-body {
+    font-weight: bold;
+}
+
+.btn {
+    font-weight: bold;
+    box-shadow: 3px 3px 2px grey;
+}
+
+.btn:active { 
+    font-weight: bold;
+    box-shadow: 3px 3px 2px grey;
+    transform: scale(0.95);
+}
+
+.dropdown-menu {
+    font-weight: bold;
+}
+
+.dropdown-item {
+    font-weight: bold;
+}

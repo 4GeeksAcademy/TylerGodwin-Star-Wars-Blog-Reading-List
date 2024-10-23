@@ -1,3 +1,6 @@
-/* 
-    General Styles
-*/
+.row {
+    color: white;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.7);
+    box-shadow: 12px 12px 10px black;
+}
